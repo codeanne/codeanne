@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anne @codeanne, I'm a web developer with knowledge of both front-end and back-end programming languages.
 - 👀 I’m interested in Web Development and UX Design or Research.
-- 🌱 I’m currently learning UX Design and Research Principles.
+- 🌱 I’m currently learning UX Design and Research Principles and jQuery.
 - 💞️ I’m looking to collaborate on web development projects (HTML/CSS/JS) and/or UX projects!
 - 📫 How to reach me: I am easily contacted via email jp3573@outlook.com
 
